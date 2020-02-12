@@ -1,0 +1,22 @@
+C:\Users\Fabian\source\repos\Algoritmo de Horner\Algoritmo de Horner\bin\Debug\netcoreapp2.1\Algoritmo de Horner.deps.json
+C:\Users\Fabian\source\repos\Algoritmo de Horner\Algoritmo de Horner\bin\Debug\netcoreapp2.1\Algoritmo de Horner.runtimeconfig.json
+C:\Users\Fabian\source\repos\Algoritmo de Horner\Algoritmo de Horner\bin\Debug\netcoreapp2.1\Algoritmo de Horner.runtimeconfig.dev.json
+C:\Users\Fabian\source\repos\Algoritmo de Horner\Algoritmo de Horner\bin\Debug\netcoreapp2.1\Algoritmo de Horner.dll
+C:\Users\Fabian\source\repos\Algoritmo de Horner\Algoritmo de Horner\bin\Debug\netcoreapp2.1\Algoritmo de Horner.pdb
+C:\Users\Fabian\source\repos\Algoritmo de Horner\Algoritmo de Horner\obj\Debug\netcoreapp2.1\Algoritmo de Horner.csproj.CoreCompileInputs.cache
+C:\Users\Fabian\source\repos\Algoritmo de Horner\Algoritmo de Horner\obj\Debug\netcoreapp2.1\Algoritmo de Horner.AssemblyInfoInputs.cache
+C:\Users\Fabian\source\repos\Algoritmo de Horner\Algoritmo de Horner\obj\Debug\netcoreapp2.1\Algoritmo de Horner.AssemblyInfo.cs
+C:\Users\Fabian\source\repos\Algoritmo de Horner\Algoritmo de Horner\obj\Debug\netcoreapp2.1\Algoritmo de Horner.dll
+C:\Users\Fabian\source\repos\Algoritmo de Horner\Algoritmo de Horner\obj\Debug\netcoreapp2.1\Algoritmo de Horner.pdb
+C:\Users\Fabian\source\repos\Algoritmo de Horner\Algoritmo de Horner\obj\Debug\netcoreapp2.1\Algoritmo de Horner.csprojAssemblyReference.cache
+C:\Users\Fabian\Documents\Universidad\Análisis de algoritmos\Expocisión Análisis de algoritmos\Presentación Análisis de algoritmos\Algoritmo de Horner\Algoritmo de Horner\bin\Debug\netcoreapp2.1\Algoritmo de Horner.deps.json
+C:\Users\Fabian\Documents\Universidad\Análisis de algoritmos\Expocisión Análisis de algoritmos\Presentación Análisis de algoritmos\Algoritmo de Horner\Algoritmo de Horner\bin\Debug\netcoreapp2.1\Algoritmo de Horner.runtimeconfig.json
+C:\Users\Fabian\Documents\Universidad\Análisis de algoritmos\Expocisión Análisis de algoritmos\Presentación Análisis de algoritmos\Algoritmo de Horner\Algoritmo de Horner\bin\Debug\netcoreapp2.1\Algoritmo de Horner.runtimeconfig.dev.json
+C:\Users\Fabian\Documents\Universidad\Análisis de algoritmos\Expocisión Análisis de algoritmos\Presentación Análisis de algoritmos\Algoritmo de Horner\Algoritmo de Horner\bin\Debug\netcoreapp2.1\Algoritmo de Horner.dll
+C:\Users\Fabian\Documents\Universidad\Análisis de algoritmos\Expocisión Análisis de algoritmos\Presentación Análisis de algoritmos\Algoritmo de Horner\Algoritmo de Horner\bin\Debug\netcoreapp2.1\Algoritmo de Horner.pdb
+C:\Users\Fabian\Documents\Universidad\Análisis de algoritmos\Expocisión Análisis de algoritmos\Presentación Análisis de algoritmos\Algoritmo de Horner\Algoritmo de Horner\obj\Debug\netcoreapp2.1\Algoritmo de Horner.csprojAssemblyReference.cache
+C:\Users\Fabian\Documents\Universidad\Análisis de algoritmos\Expocisión Análisis de algoritmos\Presentación Análisis de algoritmos\Algoritmo de Horner\Algoritmo de Horner\obj\Debug\netcoreapp2.1\Algoritmo de Horner.csproj.CoreCompileInputs.cache
+C:\Users\Fabian\Documents\Universidad\Análisis de algoritmos\Expocisión Análisis de algoritmos\Presentación Análisis de algoritmos\Algoritmo de Horner\Algoritmo de Horner\obj\Debug\netcoreapp2.1\Algoritmo de Horner.AssemblyInfoInputs.cache
+C:\Users\Fabian\Documents\Universidad\Análisis de algoritmos\Expocisión Análisis de algoritmos\Presentación Análisis de algoritmos\Algoritmo de Horner\Algoritmo de Horner\obj\Debug\netcoreapp2.1\Algoritmo de Horner.AssemblyInfo.cs
+C:\Users\Fabian\Documents\Universidad\Análisis de algoritmos\Expocisión Análisis de algoritmos\Presentación Análisis de algoritmos\Algoritmo de Horner\Algoritmo de Horner\obj\Debug\netcoreapp2.1\Algoritmo de Horner.dll
+C:\Users\Fabian\Documents\Universidad\Análisis de algoritmos\Expocisión Análisis de algoritmos\Presentación Análisis de algoritmos\Algoritmo de Horner\Algoritmo de Horner\obj\Debug\netcoreapp2.1\Algoritmo de Horner.pdb
